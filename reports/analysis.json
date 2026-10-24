@@ -1,0 +1,262 @@
+{
+  "summary": {
+    "Units Sold": 1125806.0,
+    "Gross Sales": 127931598.5,
+    "Discounts": 9205248.24,
+    "Sales": 118726350.25999999,
+    "COGS": 101832648.0,
+    "Profit": 16893702.259999998,
+    "Profit Margin": 0.14229109395685385,
+    "Discount Rate": 0.07195445337924078,
+    "Rows": 700,
+    "Period": [
+      "2013-09-01",
+      "2014-12-01"
+    ],
+    "Source SHA256": "c3f17156ab7c192571ecfc742e88c16a4b7243a4d4b4a420fcb68dec44e10196"
+  },
+  "groups": {
+    "Segment": [
+      {
+        "Segment": "Channel Partners",
+        "Sales": 1800593.64,
+        "Profit": 1316803.14,
+        "Discounts": 134568.36,
+        "Gross Sales": 1935162.0,
+        "Units Sold": 161263.5,
+        "Profit Margin": 0.7313161119462801,
+        "Discount Rate": 0.06953855026090838
+      },
+      {
+        "Segment": "Enterprise",
+        "Sales": 19611694.375,
+        "Profit": -614545.625,
+        "Discounts": 1457305.625,
+        "Gross Sales": 21069000.0,
+        "Units Sold": 168552.0,
+        "Profit Margin": -0.031335672137711455,
+        "Discount Rate": 0.06916823888176943
+      },
+      {
+        "Segment": "Government",
+        "Sales": 52504260.67,
+        "Profit": 11388173.17,
+        "Discounts": 3898805.83,
+        "Gross Sales": 56403066.5,
+        "Units Sold": 470673.5,
+        "Profit Margin": 0.21689998153820303,
+        "Discount Rate": 0.06912400463191128
+      },
+      {
+        "Segment": "Midmarket",
+        "Sales": 2381883.075,
+        "Profit": 660103.075,
+        "Discounts": 200786.925,
+        "Gross Sales": 2582670.0,
+        "Units Sold": 172178.0,
+        "Profit Margin": 0.27713496179907987,
+        "Discount Rate": 0.07774393360359627
+      },
+      {
+        "Segment": "Small Business",
+        "Sales": 42427918.5,
+        "Profit": 4143168.5,
+        "Discounts": 3513781.5,
+        "Gross Sales": 45941700.0,
+        "Units Sold": 153139.0,
+        "Profit Margin": 0.09765193878177172,
+        "Discount Rate": 0.07648348885652903
+      }
+    ],
+    "Country": [
+      {
+        "Country": "Canada",
+        "Sales": 24887654.885,
+        "Profit": 3529228.885,
+        "Discounts": 2044508.615,
+        "Gross Sales": 26932163.5,
+        "Units Sold": 247428.5,
+        "Profit Margin": 0.1418064056781459,
+        "Discount Rate": 0.07591327057701844
+      },
+      {
+        "Country": "France",
+        "Sales": 24354172.28,
+        "Profit": 3781020.78,
+        "Discounts": 1727502.22,
+        "Gross Sales": 26081674.5,
+        "Units Sold": 240931.0,
+        "Profit Margin": 0.1552514590325465,
+        "Discount Rate": 0.06623432939476336
+      },
+      {
+        "Country": "Germany",
+        "Sales": 23505340.82,
+        "Profit": 3680388.82,
+        "Discounts": 1416126.68,
+        "Gross Sales": 24921467.5,
+        "Units Sold": 201494.0,
+        "Profit Margin": 0.15657670519154804,
+        "Discount Rate": 0.05682356707124089
+      },
+      {
+        "Country": "Mexico",
+        "Sales": 20949352.11,
+        "Profit": 2907523.11,
+        "Discounts": 1777582.89,
+        "Gross Sales": 22726935.0,
+        "Units Sold": 203325.0,
+        "Profit Margin": 0.13878821143170905,
+        "Discount Rate": 0.07821480943206816
+      },
+      {
+        "Country": "United States of America",
+        "Sales": 25029830.165,
+        "Profit": 2995540.665,
+        "Discounts": 2239527.835,
+        "Gross Sales": 27269358.0,
+        "Units Sold": 232627.5,
+        "Profit Margin": 0.1196788250360867,
+        "Discount Rate": 0.082126166483274
+      }
+    ],
+    "Product": [
+      {
+        "Product": "Amarilla",
+        "Sales": 17747116.06,
+        "Profit": 2814104.06,
+        "Discounts": 1290163.44,
+        "Gross Sales": 19037279.5,
+        "Units Sold": 155315.0,
+        "Profit Margin": 0.15856683702782975,
+        "Discount Rate": 0.06777036813479573
+      },
+      {
+        "Product": "Carretera",
+        "Sales": 13815307.885,
+        "Profit": 1826804.885,
+        "Discounts": 1122212.615,
+        "Gross Sales": 14937520.5,
+        "Units Sold": 146846.0,
+        "Profit Margin": 0.1322304866606308,
+        "Discount Rate": 0.0751271012481623
+      },
+      {
+        "Product": "Montana",
+        "Sales": 15390801.88,
+        "Profit": 2114754.88,
+        "Discounts": 1159032.6199999999,
+        "Gross Sales": 16549834.5,
+        "Units Sold": 154198.0,
+        "Profit Margin": 0.13740381407599536,
+        "Discount Rate": 0.07003288280616944
+      },
+      {
+        "Product": "Paseo",
+        "Sales": 33011143.95,
+        "Profit": 4797437.95,
+        "Discounts": 2600518.05,
+        "Gross Sales": 35611662.0,
+        "Units Sold": 338239.5,
+        "Profit Margin": 0.14532783102780056,
+        "Discount Rate": 0.07302433820696153
+      },
+      {
+        "Product": "VTT",
+        "Sales": 20511921.02,
+        "Profit": 3034608.02,
+        "Discounts": 1456612.48,
+        "Gross Sales": 21968533.5,
+        "Units Sold": 168783.0,
+        "Profit Margin": 0.14794362834378738,
+        "Discount Rate": 0.06630449319705387
+      },
+      {
+        "Product": "Velo",
+        "Sales": 18250059.465,
+        "Profit": 2305992.465,
+        "Discounts": 1576709.035,
+        "Gross Sales": 19826768.5,
+        "Units Sold": 162424.5,
+        "Profit Margin": 0.126355339796149,
+        "Discount Rate": 0.07952425706690426
+      }
+    ],
+    "Discount Band": [
+      {
+        "Discount Band": "High",
+        "Sales": 37372486.725,
+        "Profit": 3388866.725,
+        "Discounts": 5317026.275,
+        "Gross Sales": 42689513.0,
+        "Units Sold": 398085.5,
+        "Profit Margin": 0.09067811703129315,
+        "Discount Rate": 0.12455111106561464
+      },
+      {
+        "Discount Band": "Low",
+        "Sales": 34629778.7,
+        "Profit": 6188857.7,
+        "Discounts": 885675.8,
+        "Gross Sales": 35515454.5,
+        "Units Sold": 261858.5,
+        "Profit Margin": 0.17871490758328176,
+        "Discount Rate": 0.02493775773022981
+      },
+      {
+        "Discount Band": "Medium",
+        "Sales": 38780430.835,
+        "Profit": 5579522.835,
+        "Discounts": 3002546.165,
+        "Gross Sales": 41782977.0,
+        "Units Sold": 379698.5,
+        "Profit Margin": 0.14387469955502366,
+        "Discount Rate": 0.07186051307449921
+      },
+      {
+        "Discount Band": "None",
+        "Sales": 7943654.0,
+        "Profit": 1736455.0,
+        "Discounts": 0.0,
+        "Gross Sales": 7943654.0,
+        "Units Sold": 86163.5,
+        "Profit Margin": 0.21859650483266266,
+        "Discount Rate": 0.0
+      }
+    ],
+    "Year": [
+      {
+        "Year": 2013,
+        "Sales": 26415255.51,
+        "Profit": 3878464.51,
+        "Discounts": 2145531.49,
+        "Gross Sales": 28560787.0,
+        "Units Sold": 264674.0,
+        "Profit Margin": 0.14682668916572594,
+        "Discount Rate": 0.07512158155865944
+      },
+      {
+        "Year": 2014,
+        "Sales": 92311094.75,
+        "Profit": 13015237.75,
+        "Discounts": 7059716.75,
+        "Gross Sales": 99370811.5,
+        "Units Sold": 861132.0,
+        "Profit Margin": 0.14099321197791342,
+        "Discount Rate": 0.0710441692427962
+      }
+    ]
+  },
+  "comparable_sep_dec": [
+    {
+      "Year": 2013,
+      "Sales": 26415255.51,
+      "Profit": 3878464.51
+    },
+    {
+      "Year": 2014,
+      "Sales": 36157519.26,
+      "Profit": 5435484.26
+    }
+  ]
+}

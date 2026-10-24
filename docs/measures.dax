@@ -1,0 +1,8 @@
+// Measures authored in the Power BI service in the financials table.
+// Both are formatted as percentages. DIVIDE returns BLANK when the denominator is zero.
+Profit Margin = DIVIDE(SUM(financials[Profit]), SUM(financials[Sales]))
+
+Discount Rate = DIVIDE(SUM(financials[Discounts]), SUM(financials[Gross Sales]))
+
+// The report's sales and profit cards use implicit Sum aggregations on Sales and Profit.
+// The monthly sales axis uses Year Month text sorted ascending (yyyy-MM).
